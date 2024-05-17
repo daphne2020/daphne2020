@@ -1,10 +1,10 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Cintia</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Full Stack Web Developer. MERN-Stack</h3>
 
 - 🌱 I’m currently learning **Next.js | Tailwind CSS | React**
 
-- 💬 Ask me about **Angular | TypeScript | | Sql Server | HTML5 | CSS3 | C#** | Git |
+- 💬 Ask me about **Angular | TypeScript | Sql Server | HTML5 | CSS3 | C#** | Git |
 
 - ⚡ Fun fact **The greatest achievements often come from the greatest challenges. Embrace adversity and let it fuel your determination**
 
