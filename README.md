@@ -13,7 +13,6 @@
 
 
 <div class="markdown-heading" dir="auto">✍️ 
-  
 - 🌱 I’m currently learning: Next.js | Tailwind CSS | React | MongoDB |
 - 💬 Ask me about: Angular | TypeScript | Sql Server | HTML5 | CSS3 | C# | Git |
 - ⚡ Fun fact: *****
@@ -21,7 +20,7 @@
 
 
 
-
+<br>
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Socials:</h2>
   <a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials">
