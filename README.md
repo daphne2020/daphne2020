@@ -2,10 +2,10 @@
 <h1 align="center"> About Me:</h1>
 
 
- <p align="left">
+
+<h1 align="center"> <p align="left">
        ⚡FullStack Web Developer.<br>⚡ MERN-Stack
-      </p> 
-<h1 align="center"> </h1>
+      </p>  </h1>
 
 
 
