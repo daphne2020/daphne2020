@@ -35,7 +35,7 @@
 
 
 
-<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">💻 Tech Stack:</h1><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">💻 Tech Stack</h1><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>
 <h3 align="left">Languages and Tools:</h3></div>
 
 
