@@ -1,11 +1,11 @@
 ### Hi there 👋
-<h1 align="center">💫 About Me:</h1>
+<h1 align="center"> About Me:</h1>
 
 
 <p dir="auto">⚡FullStack Web Developer.<br>⚡ MERN-Stack</p>
 
 
-<div class="markdown-heading" dir="auto">✍️
+<div class="markdown-heading" dir="auto">✍️  💫
   
 - 🌱 I’m currently learning: Next.js | Tailwind CSS | React | MongoDB |
 - 💬 Ask me about: Angular | TypeScript | Sql Server | HTML5 | CSS3 | C# | Git |
