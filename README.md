@@ -1,9 +1,9 @@
 ### Hi there 👋
 <h1 align="center"> About Me:</h1>
 
-
+<h3>
 <p dir="auto">⚡FullStack Web Developer.<br>⚡ MERN-Stack</p>
-
+</h3>
 
 <div class="markdown-heading" dir="auto">✍️  💫
   
