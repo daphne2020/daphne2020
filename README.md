@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: Next.js | Tailwind CSS | React | MongoDB |
 
-- 💬 Ask me about --> Angular | TypeScript | Sql Server | HTML5 | CSS3 | C# | Git |
+- 💬 Ask me about: Angular | TypeScript | Sql Server | HTML5 | CSS3 | C# | Git |
 
 - ⚡ Fun fact **The greatest achievements often come from the greatest challenges. Embrace adversity and let it fuel your determination**
 
