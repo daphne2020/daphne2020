@@ -5,6 +5,21 @@
 <p dir="auto">⚡FullStack Web Developer.<br>⚡ MERN-Stack</p>
 </h3>
 
+
+
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Socials:</h2><a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+
+<p align="left">
+
+</p> 
+</svg></a></div>
+
+
+
+
+
+
+
 <div class="markdown-heading" dir="auto">✍️  💫
   
 - 🌱 I’m currently learning: Next.js | Tailwind CSS | React | MongoDB |
@@ -14,13 +29,22 @@
 
 
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Socials:</h2><a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-
-<p align="left">
-<a href="https://www.linkedin.com/in/cintiacarossia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/cintiacarossia/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/6075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/6075" height="30" width="40" /></a>
-</p> 
-</svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Socials:</h2>
+  <a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+      <p align="left">
+        <a href="https://www.linkedin.com/in/cintiacarossia/" target="blank">
+          <img align="center" 
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       
+            alt="linkedin.com/in/cintiacarossia/" height="30" width="40" /></a>
+        <a href="https://discord.gg/https://discord.com/invite/6075" target="blank">
+          <img align="center"  
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
+            alt="https://discord.com/invite/6075" height="30" width="40" /></a>
+      </p> 
+  </svg>
+  </a>
+</div>
 
 
 
