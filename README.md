@@ -3,11 +3,11 @@
 
 
 
-<h3 align="center"> 
+<div align="center"> 
        <p align="left">
        ⚡FullStack Web Developer.<br>⚡ MERN-Stack
       </p>  
-</h3>
+</div>
 
 
 
