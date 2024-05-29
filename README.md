@@ -4,14 +4,14 @@
 
 <p dir="auto">⚡FullStack Web Developer.<br>⚡ MERN-Stack</p>
 
-<p dir="auto">
+
 <div class="markdown-heading" dir="auto">✍️  💫
   
 - 🌱 I’m currently learning: Next.js | Tailwind CSS | React | MongoDB |
 - 💬 Ask me about: Angular | TypeScript | Sql Server | HTML5 | CSS3 | C# | Git |
 - ⚡ Fun fact: *****
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
-</p>
+
 
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Socials:</h2><a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
