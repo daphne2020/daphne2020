@@ -46,10 +46,13 @@
 
 
 
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">✍️ Random Dev Quote</h3><a id="user-content-️-random-dev-quote" class="anchor" aria-label="Permalink: ✍️ Random Dev Quote" href="#️-random-dev-quote"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">-----</svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">✍️ Random Dev Quote</h3><a id="user-content-️-random-dev-quote" class="anchor" aria-label="Permalink: ✍️ Random Dev Quote" href="#️-random-dev-quote"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">987987987987987979</svg></a></div>
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7f311c52df3a0bfc8058856a01f9a2e67986a83311ced9ca43e316333661c367/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/7f311c52df3a0bfc8058856a01f9a2e67986a83311ced9ca43e316333661c367/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="">
+The greatest achievements often come from the greatest challenges. Embrace adversity and let it fuel your determination
+  
+</a></p>
 
 <!--
 **daphne2020/daphne2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
