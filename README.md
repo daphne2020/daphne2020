@@ -8,7 +8,7 @@
        ⚡FullStack Web Developer.<br>⚡ MERN-Stack
       </p>  
 </div>
-<hr>
+
 
 
 
@@ -47,7 +47,7 @@
 
 
 
-
+<hr>
 
 
 
