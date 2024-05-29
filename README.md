@@ -1,7 +1,14 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">💫 About Me:</h1>
 
-<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">💫 About Me:</h1><a id="user-content--about-me" class="anchor" aria-label="Permalink: 💫 About Me:" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
+<div class="markdown-heading" dir="auto">
+  
+- 🌱 I’m currently learning: Next.js | Tailwind CSS | React | MongoDB |
+
+- 💬 Ask me about: Angular | TypeScript | Sql Server | HTML5 | CSS3 | C# | Git |
+
+- ⚡ Fun fact **The greatest achievements often come from the greatest challenges. Embrace adversity and let it fuel your determination**
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
 
 
 
@@ -10,11 +17,6 @@
 
 
 
-- 🌱 I’m currently learning: Next.js | Tailwind CSS | React | MongoDB |
-
-- 💬 Ask me about: Angular | TypeScript | Sql Server | HTML5 | CSS3 | C# | Git |
-
-- ⚡ Fun fact **The greatest achievements often come from the greatest challenges. Embrace adversity and let it fuel your determination**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
