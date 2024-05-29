@@ -65,13 +65,12 @@
 
 
 
-<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">✍️ Random Dev Quote</h3><a id="user-content-️-random-dev-quote" class="anchor" aria-label="Permalink: ✍️ Random Dev Quote" href="#️-random-dev-quote"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">987987987987987979</svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">✍️ Random Dev Quote</h3><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></div>
 
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="">
+<p dir="auto">
 The greatest achievements often come from the greatest challenges. Embrace adversity and let it fuel your determination
-  
-</a></p>
+</p>
 
 
 
