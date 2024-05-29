@@ -22,15 +22,18 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+
+
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Socials:</h2><a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+
 <p align="left">
 <a href="https://www.linkedin.com/in/cintiacarossia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/cintiacarossia/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/6075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/6075" height="30" width="40" /></a>
 </p>
 
 
-
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Socials:</h2><a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+  
+</svg></a></div>
 
 
 <p dir="auto"><a href="https://discord.gg/6074" rel="nofollow"><img src="https://camo.githubusercontent.com/80deb183f87d91c5b628533ac6a0c6ac0752c553a69df73faa336f1f9b7c9de8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333732383944412e7376673f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="Discord" data-canonical-src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://instagram.com/sourabh_jyoti_das" rel="nofollow"><img src="https://camo.githubusercontent.com/3ad821fc2ec8e5389509e2262efe64bbab486ae3bfa9abf43bae910f1d3fc134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://linkedin.com/in/sourabh-jyoti-das-5a4aa926a" rel="nofollow"><img src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
