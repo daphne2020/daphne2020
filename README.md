@@ -1,6 +1,10 @@
 ### Hi there 👋
 <h1 align="center">💫 About Me:</h1>
 
+
+<p dir="auto">🔭Full Stack Web Developer.<br>🤝 MERN-Stack</p>
+
+
 <div class="markdown-heading" dir="auto">
   
 - 🌱 I’m currently learning: Next.js | Tailwind CSS | React | MongoDB |
