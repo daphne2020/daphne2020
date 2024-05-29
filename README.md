@@ -38,8 +38,6 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
             alt="https://discord.com/invite/6075" height="30" width="40" /></a>
       </p> 
-       
-       
        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
 
 
