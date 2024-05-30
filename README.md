@@ -95,6 +95,9 @@ Thanks for taking a look!
 The greatest achievements often come from the greatest challenges. Embrace adversity and let it fuel your determination
 </p>
 
+<p dir="auto" style="color: rgb(219, 20, 60, 0.5)">The greatest achievements often come from the greatest challenges. Embrace adversity and let it fuel your determination.</p>
+
+
 
 
 
