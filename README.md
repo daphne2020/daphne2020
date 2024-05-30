@@ -1,15 +1,20 @@
 ### Hi there 👋
+
+
+
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/daphne2020/daphne2020/assets/hi"><img src="https://github.com/daphne2020/daphne2020/assets/hi" alt="Waving Hand Light Skin Tone" width="50" height="50" style="max-width: 100%;"></a> Welcome to My GitHub Profile!</h1><a id="user-content--welcome-to-my-github-profile" class="anchor" aria-label="Permalink:  Welcome to My GitHub Profile!" href="#-welcome-to-my-github-profile"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+       
+</svg></a></div>
+
+
+
 <h1 align="center"> About Me:</h1>
-
-
 
 <div align="center"> 
        <p align="left">
        ⚡FullStack Web Developer.<br>⚡ MERN-Stack
       </p>  
 </div>
-
-
 
 
 <div class="markdown-heading" dir="auto">✍️ 
