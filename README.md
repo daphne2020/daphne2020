@@ -8,14 +8,20 @@
        <a id="user-content--welcome-to-my-github-profile" class="anchor" aria-label="Permalink:  Welcome to My GitHub Profile!" href="#-welcome-to-my-github-profile"></a>
 </div>
 
-<p dir="auto">A highly motivated and experienced Software Engineer with a proven track record of success in developing innovative software solutions for a variety of clients. Possesses a strong technical background in software engineering, with experience in developing applications for both web and mobile platforms. Skilled in object-oriented programming, database design, and software development lifecycle management. Experienced in working with clients to develop custom solutions that meet their needs.</p>
+<p dir="auto"<During my three years of professional experience with Angular, I have developed dynamic and responsive tools that have improved the user experience.
+
+Additionally, I am currently expanding my skill set to include Tailwind CSS and Next.js through personal projects. 
+ which improves my ability to create custom designs quickly and efficiently. These new skills will allow me to provide modern techniques 
+and underlines my commitment to continuous learning.
+focusing and further improving my skills in a challenging and collaborative environment, to contribute to my team.
+Thanks for taking a look!
+'Nothing can be obtained without effort...' </p>
 
 <div class="markdown-heading" dir="auto">
-       <h2 class="heading-element" dir="auto">🛠️ About Mr </h2><a id="user-content-️-skills" class="anchor" aria-label="Permalink: 🛠️ About Me" href="#️-skills">
-              <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-                     
-</svg>
-</a>
+       <h2 class="heading-element" dir="auto">🛠️ About Me </h2>
+       <a id="user-content-️-about" class="anchor" aria-label="Permalink: 🛠️ About Me" href="#️-about">
+       <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg>
+       </a>
 </div>
 
 
@@ -33,6 +39,7 @@
 - 💬 Ask me about: Angular | TypeScript | Sql Server | HTML5 | CSS3 | C# | Git |
   
 - ⚡ Fun fact: *****
+  
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
 
 
