@@ -14,6 +14,7 @@ Additionally, I am currently expanding my skill set to include Tailwind CSS and 
  which improves my ability to create custom designs quickly and efficiently. These new skills will allow me to provide modern techniques 
 and underlines my commitment to continuous learning.
 focusing and further improving my skills in a challenging and collaborative environment, to contribute to my team.
+       <br>
 Thanks for taking a look!
 'Nothing can be obtained without effort...' </p>
 
