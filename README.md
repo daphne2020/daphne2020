@@ -8,8 +8,8 @@
        <a id="user-content--welcome-to-my-github-profile" class="anchor" aria-label="Permalink:  Welcome to My GitHub Profile!" href="#-welcome-to-my-github-profile"></a>
 </div>
 
-<p dir="auto"<During my three years of professional experience with Angular, I have developed dynamic and responsive tools that have improved the user experience.
-
+<p dir="auto">
+       During my three years of professional experience with Angular, I have developed dynamic and responsive tools that have improved the user experience.
 Additionally, I am currently expanding my skill set to include Tailwind CSS and Next.js through personal projects. 
  which improves my ability to create custom designs quickly and efficiently. These new skills will allow me to provide modern techniques 
 and underlines my commitment to continuous learning.
