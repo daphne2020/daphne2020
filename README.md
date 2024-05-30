@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there ⋆☾⋆⁺
 
 <div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">
        <a target="_blank" rel="noopener noreferrer" href="https://github.com/daphne2020/daphne2020/blob/main/assets/hi.png">
@@ -42,7 +42,7 @@ Thanks for taking a look!
        
 - 💬 Ask me about: Angular | TypeScript | Sql Server | HTML5 | CSS3 | C# | Git |
   
-- ⚡ Fun fact: I love 🍕, 👽 , 🍔, 🍨, 🍷, 🍬, 🛫,  🏝, 
+- ⚡ Fun fact: I love 🍕, 👽 , 🍔, 🍨, 🍷, 🍬, 🛫, 💰, ✩ ,♬, 🎧
   
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
 
