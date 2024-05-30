@@ -16,6 +16,7 @@ and underlines my commitment to continuous learning.
 focusing and further improving my skills in a challenging and collaborative environment, to contribute to my team.
        <br>
 Thanks for taking a look!
+       <br>
 'Nothing can be obtained without effort...' </p>
 
 <div class="markdown-heading" dir="auto">
