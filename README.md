@@ -31,8 +31,7 @@
 </div>
 
 
-<div class="markdown-heading" dir="auto">
-       [✍️](url) 
+<div class="markdown-heading" dir="auto"> 
        
 - 🌱 I’m currently learning: Next.js | Tailwind CSS | React | MongoDB |
        
