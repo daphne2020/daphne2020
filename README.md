@@ -1,13 +1,23 @@
-### Hi there 👋
-
-
+### Hi there 
 
 <div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">
        <a target="_blank" rel="noopener noreferrer" href="https://github.com/daphne2020/daphne2020/blob/main/assets/hi.png">
-              <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/hi.png" alt="Waving Hand Light Skin Tone" width="50" height="50" style="max-width: 100%;">
+       <img src="https://github.com/daphne2020/daphne2020/blob/main/assets/hi.png" alt="Waving Hand Light Skin Tone" width="50" height="50" style="max-width: 100%;">
        </a> 
-       Welcome to My GitHub Profile!</h1>
+       Welcome to My GitHub Profile</h1>
        <a id="user-content--welcome-to-my-github-profile" class="anchor" aria-label="Permalink:  Welcome to My GitHub Profile!" href="#-welcome-to-my-github-profile"></a>
+</div>
+
+<p dir="auto">A highly motivated and experienced Software Engineer with a proven track record of success in developing innovative software solutions for a variety of clients. Possesses a strong technical background in software engineering, with experience in developing applications for both web and mobile platforms. Skilled in object-oriented programming, database design, and software development lifecycle management. Experienced in working with clients to develop custom solutions that meet their needs.</p>
+
+<div class="markdown-heading" dir="auto">
+       <h2 class="heading-element" dir="auto">🛠️ Skills</h2><a id="user-content-️-skills" class="anchor" aria-label="Permalink: 🛠️ Skills" href="#️-skills">
+              <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+                     <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
+       
+</path>
+</svg>
+</a>
 </div>
 
 
